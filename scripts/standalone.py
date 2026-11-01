@@ -23,6 +23,7 @@ resources=[]
 files=[('guide-module03.html','text/html;charset=utf-8'),('Guide-Dossier-Professionnel-Module03-LN-IA-Automne2026.pdf','application/pdf')]
 for poster in ['affiche-01-parcours-module03','affiche-02-versions-controle-module03']:
     files.extend([(poster+'.svg','image/svg+xml'),(poster+'.png','image/png')])
+files.append(('apercu-dossier-professionnel-module03.png','image/png'))
 for name,mime in files:
     resource=(root/'public/ressources'/name).read_bytes()
     if name.endswith('.html'):

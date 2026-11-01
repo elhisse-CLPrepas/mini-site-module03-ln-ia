@@ -14,3 +14,6 @@ tmp/
 .codex/
 .agents/
 .vite/
+
+# Original fourni conservé localement ; copie Web dans public/ressources/.
+/Affiche futuriste du dossier professionnel.png

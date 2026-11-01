@@ -164,3 +164,7 @@ La [charte visuelle LN-IA](docs/CHARTE-VISUELLE-LN-IA.md) rassemble les consigne
 ## Autorisation de phase 10
 
 Le pilote a validé la phase 09 et autorisé explicitement commit, remote, push et déploiement Pages via Actions. Le dépôt distant réel a été consulté, puis Git local initialisé. Les constats d’absence de Git dans les rapports de phase 09 restent historiques. Les archives, Word sources et dossiers privés restent locaux et exclus du dépôt ; les modèles non remplis et exports Web demandés sont diffusables.
+
+## Aperçu illustré du dossier
+
+L’accueil présente l’affiche fournie par le pilote après les quatre séances, avec une synthèse S09–S12, un agrandissement et un téléchargement PNG. [Voir l’affiche](https://elhisse-clprepas.github.io/mini-site-module03-ln-ia/ressources/apercu-dossier-professionnel-module03.png). Elle est aussi embarquée dans l’aperçu autonome. Le fichier original reste conservé localement sans modification.
