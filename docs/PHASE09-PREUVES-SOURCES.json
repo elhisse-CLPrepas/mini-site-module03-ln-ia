@@ -1,0 +1,147 @@
+{
+  "date": "2026-11-01",
+  "methode": "SHA-256 réellement calculés sur les octets des fichiers locaux. Comparaison aux inventaires existants ; aucun historique Git supposé.",
+  "sources_preservees": [
+    {
+      "chemin": "sources-historiques/dossier-supports-seance-12.zip",
+      "sha256_calcule": "d6e7ca962429c645d2c5c1bd75575fe5c703957ea177c878093aeff1cd509e7f",
+      "reference": "docs/INVENTAIRE-SOURCES.json",
+      "nom_reference": "dossier-supports-seance-12.zip",
+      "sha256_reference": "d6e7ca962429c645d2c5c1bd75575fe5c703957ea177c878093aeff1cd509e7f",
+      "conforme": true
+    },
+    {
+      "chemin": "sources-historiques/supports-seance-09.zip",
+      "sha256_calcule": "35afcca733c47e4dc307134d75490df0fd7580cdf501ae6e0b9a178de716078f",
+      "reference": "docs/INVENTAIRE-SOURCES.json",
+      "nom_reference": "supports-seance-09.zip",
+      "sha256_reference": "35afcca733c47e4dc307134d75490df0fd7580cdf501ae6e0b9a178de716078f",
+      "conforme": true
+    },
+    {
+      "chemin": "sources-historiques/supports-seance-10.zip",
+      "sha256_calcule": "3771d1f64affe0e792431e93673a70b0794738b24f714132063eb1936b1297db",
+      "reference": "docs/INVENTAIRE-SOURCES.json",
+      "nom_reference": "supports-seance-10(2).zip",
+      "sha256_reference": "3771d1f64affe0e792431e93673a70b0794738b24f714132063eb1936b1297db",
+      "conforme": true
+    },
+    {
+      "chemin": "sources-historiques/supports-seance-11.zip",
+      "sha256_calcule": "e36f34c5dcd173a2b58d5f84cf1fe463e00d3cf24815f147030e620b0a8bab99",
+      "reference": "docs/INVENTAIRE-SOURCES.json",
+      "nom_reference": "supports-seance-11(1).zip",
+      "sha256_reference": "e36f34c5dcd173a2b58d5f84cf1fe463e00d3cf24815f147030e620b0a8bab99",
+      "conforme": true
+    },
+    {
+      "chemin": "sources-historiques/supports-seance-12.zip",
+      "sha256_calcule": "15f39b7f3d4af4e8327ffa949f7292d59d11710e4ca177a78797ad77e8d0ef42",
+      "reference": "docs/INVENTAIRE-SOURCES.json",
+      "nom_reference": "supports-seance-12(1).zip",
+      "sha256_reference": "15f39b7f3d4af4e8327ffa949f7292d59d11710e4ca177a78797ad77e8d0ef42",
+      "conforme": true
+    },
+    {
+      "chemin": "docs/Organigramme-Algorithme-Module03-LN-IA.md",
+      "sha256_calcule": "9e6de9df7b9943ba05a255df42efb5c6e0a877b153bc70b892ad23a37fd91768",
+      "reference": "docs/EMPREINTES-ORGANIGRAMME-FOURNI.json",
+      "sha256_reference": "9e6de9df7b9943ba05a255df42efb5c6e0a877b153bc70b892ad23a37fd91768",
+      "conforme": true
+    },
+    {
+      "chemin": "docs/Organigramme-Algorithme-Module03-LN-IA.docx",
+      "sha256_calcule": "bd865db2e573501c47636a49e33b79d9d0547dfe8f1a3a9dc9bb00ab1559114f",
+      "reference": "docs/EMPREINTES-ORGANIGRAMME-FOURNI.json",
+      "sha256_reference": "bd865db2e573501c47636a49e33b79d9d0547dfe8f1a3a9dc9bb00ab1559114f",
+      "conforme": true
+    },
+    {
+      "chemin": "docs/Guide-Dossier-Professionnel-Module03-LN-IA-Automne2026.docx",
+      "sha256_calcule": "c9e8c47586fe3c7f7191c984ed8712072d88aeeb0cda007f2fac8e52ce177e1b",
+      "reference": "docs/EXPORT-GUIDE-SOURCE.json",
+      "sha256_reference": "c9e8c47586fe3c7f7191c984ed8712072d88aeeb0cda007f2fac8e52ce177e1b",
+      "conforme": true
+    }
+  ],
+  "fichiers_applicatifs_surveilles": [
+    {
+      "chemin": "src/app.js",
+      "sha256_avant": "9d5e554d23aff41c23ebb5f480e5b4062a8c3f4aacf6ffbb9613c9af1ae844dd",
+      "sha256_apres": "9d5e554d23aff41c23ebb5f480e5b4062a8c3f4aacf6ffbb9613c9af1ae844dd",
+      "inchange": true
+    },
+    {
+      "chemin": "src/core.mjs",
+      "sha256_avant": "4077ff229f77dc711ef219ff10101e8342a1aa5535a23579781acad7c85452b2",
+      "sha256_apres": "4077ff229f77dc711ef219ff10101e8342a1aa5535a23579781acad7c85452b2",
+      "inchange": true
+    },
+    {
+      "chemin": "index.html",
+      "sha256_avant": "2d9cf36dd357e12789f0916d5eff9998e4379dc2136055a5acb0775f9856de47",
+      "sha256_apres": "2d9cf36dd357e12789f0916d5eff9998e4379dc2136055a5acb0775f9856de47",
+      "inchange": true
+    },
+    {
+      "chemin": "src/theme-references-ln-ia.css",
+      "sha256_avant": "6c51ce5ed0544aad6cb2db1366775c9663431db1f513021bed14a919876f75a2",
+      "sha256_apres": "6c51ce5ed0544aad6cb2db1366775c9663431db1f513021bed14a919876f75a2",
+      "inchange": true
+    },
+    {
+      "chemin": "APERCU-AUTONOME-MODULE03.html",
+      "sha256_avant": "e98776d37a49bf0c793747204982039e689acb90e5b19e95efba343e221dc942",
+      "sha256_apres": "e98776d37a49bf0c793747204982039e689acb90e5b19e95efba343e221dc942",
+      "inchange": true
+    },
+    {
+      "chemin": "package.json",
+      "sha256_avant": "219add6c59317ce7abf4bff5f2dd25f9aa671fe4b4e22a10bc52383434447094",
+      "sha256_apres": "219add6c59317ce7abf4bff5f2dd25f9aa671fe4b4e22a10bc52383434447094",
+      "inchange": true
+    },
+    {
+      "chemin": "package-lock.json",
+      "sha256_avant": "5c440c225bb63fb9b42acae646aafa58f8c94509bfe1bdde62d92c195742fc1c",
+      "sha256_apres": "5c440c225bb63fb9b42acae646aafa58f8c94509bfe1bdde62d92c195742fc1c",
+      "inchange": true
+    },
+    {
+      "chemin": "public/ressources/affiche-01-parcours-module03.png",
+      "sha256_avant": "78d9ac4cc95cdb55815ed4baa27ffdb601b1f1d48934dab62171547b498ccbf5",
+      "sha256_apres": "78d9ac4cc95cdb55815ed4baa27ffdb601b1f1d48934dab62171547b498ccbf5",
+      "inchange": true
+    },
+    {
+      "chemin": "public/ressources/affiche-01-parcours-module03.svg",
+      "sha256_avant": "c0907e7a43ffff3542fcbbd1643ea36d95f17ede20e43607f522673225aa3320",
+      "sha256_apres": "c0907e7a43ffff3542fcbbd1643ea36d95f17ede20e43607f522673225aa3320",
+      "inchange": true
+    },
+    {
+      "chemin": "public/ressources/affiche-02-versions-controle-module03.png",
+      "sha256_avant": "4308c5a33dfc5fcff1f400bd1d0569c88e6d6f8e99f0f1984dfc607e94df0608",
+      "sha256_apres": "4308c5a33dfc5fcff1f400bd1d0569c88e6d6f8e99f0f1984dfc607e94df0608",
+      "inchange": true
+    },
+    {
+      "chemin": "public/ressources/affiche-02-versions-controle-module03.svg",
+      "sha256_avant": "c46341a2c6dec269bd17c83782fdfba467872262f383870e54676758bb6f2ee9",
+      "sha256_apres": "c46341a2c6dec269bd17c83782fdfba467872262f383870e54676758bb6f2ee9",
+      "inchange": true
+    },
+    {
+      "chemin": "public/ressources/Guide-Dossier-Professionnel-Module03-LN-IA-Automne2026.pdf",
+      "sha256_avant": "7f9195a720abb290a4bcc029565dbf9b9517a41e70453e1b78e6edcfdf800a49",
+      "sha256_apres": "7f9195a720abb290a4bcc029565dbf9b9517a41e70453e1b78e6edcfdf800a49",
+      "inchange": true
+    },
+    {
+      "chemin": "public/ressources/guide-module03.html",
+      "sha256_avant": "525f8d2d0b12c65bcf168812cee88fc9fe67e10e9adc3b5336dc0f96ff352a67",
+      "sha256_apres": "525f8d2d0b12c65bcf168812cee88fc9fe67e10e9adc3b5336dc0f96ff352a67",
+      "inchange": true
+    }
+  ]
+}

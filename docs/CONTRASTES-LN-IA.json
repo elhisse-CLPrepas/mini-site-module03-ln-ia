@@ -1,0 +1,62 @@
+[
+  {
+    "usage": "Texte / blanc",
+    "texte": "#152940",
+    "fond": "#ffffff",
+    "contraste": 14.76
+  },
+  {
+    "usage": "Secondaire / blanc",
+    "texte": "#536579",
+    "fond": "#ffffff",
+    "contraste": 5.99
+  },
+  {
+    "usage": "Ocre / blanc",
+    "texte": "#825d20",
+    "fond": "#ffffff",
+    "contraste": 5.94
+  },
+  {
+    "usage": "Lien / blanc",
+    "texte": "#244f78",
+    "fond": "#ffffff",
+    "contraste": 8.52
+  },
+  {
+    "usage": "Navigation / bleu nuit",
+    "texte": "#d0dceb",
+    "fond": "#071a31",
+    "contraste": 12.59
+  },
+  {
+    "usage": "Bouton actif",
+    "texte": "#102b48",
+    "fond": "#edcc89",
+    "contraste": 9.31
+  },
+  {
+    "usage": "Texte hero",
+    "texte": "#d8e3ef",
+    "fond": "#0c294c",
+    "contraste": 11.24
+  },
+  {
+    "usage": "Gold / bleu nuit",
+    "texte": "#f0cc83",
+    "fond": "#071a31",
+    "contraste": 11.38
+  },
+  {
+    "usage": "Champ / blanc",
+    "texte": "#152940",
+    "fond": "#ffffff",
+    "contraste": 14.76
+  },
+  {
+    "usage": "Placeholder / blanc",
+    "texte": "#607083",
+    "fond": "#ffffff",
+    "contraste": 5.07
+  }
+]
