@@ -1,0 +1,37 @@
+[
+  {
+    "source": "dossier-supports-seance-12.zip",
+    "sha256": "d6e7ca962429c645d2c5c1bd75575fe5c703957ea177c878093aeff1cd509e7f",
+    "bytes": 36917,
+    "files": 9,
+    "verified": true
+  },
+  {
+    "source": "supports-seance-09.zip",
+    "sha256": "35afcca733c47e4dc307134d75490df0fd7580cdf501ae6e0b9a178de716078f",
+    "bytes": 11141821,
+    "files": 49,
+    "verified": true
+  },
+  {
+    "source": "supports-seance-10(2).zip",
+    "sha256": "3771d1f64affe0e792431e93673a70b0794738b24f714132063eb1936b1297db",
+    "bytes": 7901395,
+    "files": 25,
+    "verified": true
+  },
+  {
+    "source": "supports-seance-11(1).zip",
+    "sha256": "e36f34c5dcd173a2b58d5f84cf1fe463e00d3cf24815f147030e620b0a8bab99",
+    "bytes": 9188050,
+    "files": 51,
+    "verified": true
+  },
+  {
+    "source": "supports-seance-12(1).zip",
+    "sha256": "15f39b7f3d4af4e8327ffa949f7292d59d11710e4ca177a78797ad77e8d0ef42",
+    "bytes": 9232227,
+    "files": 46,
+    "verified": true
+  }
+]

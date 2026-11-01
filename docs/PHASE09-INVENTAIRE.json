@@ -1,0 +1,508 @@
+{
+  "date": "2026-11-01",
+  "git_local": "Aucun dépôt Git local détecté par git status --short.",
+  "methode": "Statuts documentaires connus par les actions de la session et les copies conservées ; pas de statuts Git ni de diff global supposé. Les tailles et empreintes sont calculées sur les fichiers présents.",
+  "phase09_ajoutes": [
+    {
+      "chemin": "docs/PHASE09-DOSSIER-PREUVES.md",
+      "statut_documentaire": "ajouté",
+      "perimetre": "phase 09",
+      "present": true,
+      "octets": 9073,
+      "sha256_calcule": "9c52713c111693ab28a0b8780252b3a1c2ca88f63014d0916a43ab568aaeb709"
+    },
+    {
+      "chemin": "docs/PHASE09-DOCUMENTATION.diff",
+      "statut_documentaire": "ajouté",
+      "perimetre": "phase 09",
+      "present": true,
+      "octets": 13893,
+      "sha256_calcule": "25d3b57620c15c05fdad039e8c0e85c4b3c365b6a586f3382a7355ca66b45183"
+    },
+    {
+      "chemin": "docs/PHASE09-INVENTAIRE.json",
+      "statut_documentaire": "ajouté",
+      "perimetre": "phase 09",
+      "present": true,
+      "note": "Pièce créée par cette génération ; taille et empreinte propres omises pour éviter une autoréférence."
+    },
+    {
+      "chemin": "docs/PHASE09-PREUVES-SOURCES.json",
+      "statut_documentaire": "ajouté",
+      "perimetre": "phase 09",
+      "present": true,
+      "octets": 6926,
+      "sha256_calcule": "04bf8d1332e9905e66b1f3d6db56f1809555e918874c284cb3dc0c1858b9b03a"
+    }
+  ],
+  "phase09_modifies": [
+    {
+      "chemin": "README.md",
+      "statut_documentaire": "modifié",
+      "perimetre": "phase 09",
+      "present": true,
+      "octets": 13189,
+      "sha256_calcule": "dfe8fef65f66efa389617522db7f79d2da71002b4a6de293405c1e97994835a2",
+      "base_comparaison": "tmp/avant-phase09/README.md"
+    },
+    {
+      "chemin": "AGENTS.md",
+      "statut_documentaire": "modifié",
+      "perimetre": "phase 09",
+      "present": true,
+      "octets": 1396,
+      "sha256_calcule": "9608ca908d97f61e3685afbb2f82a873911b6d237cbb7c0728c27c060263f9bf",
+      "base_comparaison": "tmp/avant-phase09/AGENTS.md"
+    },
+    {
+      "chemin": "docs/PROVENANCE.md",
+      "statut_documentaire": "modifié",
+      "perimetre": "phase 09",
+      "present": true,
+      "octets": 7563,
+      "sha256_calcule": "08e48ca7afa390af2fd9a3eaef609db092c6b195d5e77f20172825effcf1112e",
+      "base_comparaison": "tmp/avant-phase09/docs/PROVENANCE.md"
+    },
+    {
+      "chemin": "docs/JOURNAL-QUALITE.md",
+      "statut_documentaire": "modifié",
+      "perimetre": "phase 09",
+      "present": true,
+      "octets": 24525,
+      "sha256_calcule": "923fcf82909f5d1a48b3af2417f2514593fb1f969e9486fb363f46b5766c0ce6",
+      "base_comparaison": "tmp/avant-phase09/docs/JOURNAL-QUALITE.md"
+    },
+    {
+      "chemin": "docs/GUIDE-DOSSIER-PRO-MODULE03.md",
+      "statut_documentaire": "modifié",
+      "perimetre": "phase 09",
+      "present": true,
+      "octets": 23414,
+      "sha256_calcule": "0d003b157351b6fe47535acf6c0e00f68866600f742ad14c3089f729722a0e2c",
+      "base_comparaison": "tmp/avant-phase09/docs/GUIDE-DOSSIER-PRO-MODULE03.md"
+    },
+    {
+      "chemin": "prompts/PROMPT-MAITRE-CODEX-MODULE03.md",
+      "statut_documentaire": "modifié",
+      "perimetre": "phase 09",
+      "present": true,
+      "octets": 9192,
+      "sha256_calcule": "39a6965e2fe6ff6b5839d66c878214b9a84575512e33a68c4b3824acbabe92ca",
+      "base_comparaison": "tmp/avant-phase09/prompts/PROMPT-MAITRE-CODEX-MODULE03.md"
+    },
+    {
+      "chemin": "docs/PHASE08-CORRECTIONS.md",
+      "statut_documentaire": "modifié",
+      "perimetre": "phase 09",
+      "present": true,
+      "octets": 5394,
+      "sha256_calcule": "e1d4ff9848d54b963fbe8d8ca7830bb6a0b41436b3c8afb9b303d01eeb86db1e",
+      "base_comparaison": "tmp/avant-phase09/docs/PHASE08-CORRECTIONS.md"
+    },
+    {
+      "chemin": "docs/RECETTE-PHASE07.md",
+      "statut_documentaire": "modifié",
+      "perimetre": "phase 09",
+      "present": true,
+      "octets": 8630,
+      "sha256_calcule": "092a83dc37075d5b3e9a2e4b8b190decdd0e15ff5969412031673222a11492e6",
+      "base_comparaison": "tmp/avant-phase09/docs/RECETTE-PHASE07.md"
+    }
+  ],
+  "lots_precedents_ajoutes": [
+    {
+      "chemin": "src/session-guidance.js",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 1645,
+      "sha256_calcule": "c1db7b52decdcd098bb8012cdaa62e6a595f711c5ab171d8777a66ec3160b984"
+    },
+    {
+      "chemin": "src/demonstrations.js",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 7194,
+      "sha256_calcule": "c4f6f602061660ad056a4159bba5dda02e49b4f20ac6436bdd29059562105caa"
+    },
+    {
+      "chemin": "src/theme-editorial.css",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 7416,
+      "sha256_calcule": "a8c5d29538e0dc1b910a72c65634f0a9df6c4dd08e3a4256895027fe6e93a48b"
+    },
+    {
+      "chemin": "src/theme-ln-ia.css",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 8026,
+      "sha256_calcule": "c313eab09785045e3fa1512fc02f364c9a8e6478987deb6cf20ee0635f859a3c"
+    },
+    {
+      "chemin": "src/theme-references-ln-ia.css",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 13556,
+      "sha256_calcule": "6c51ce5ed0544aad6cb2db1366775c9663431db1f513021bed14a919876f75a2"
+    },
+    {
+      "chemin": "tests/app.test.mjs",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 7954,
+      "sha256_calcule": "fdd8cc9cedb3b06e8a9ed9b4f83ccb4b7952d7377e8ff37e8a23ea4be98846c0"
+    },
+    {
+      "chemin": "tests/helpers/app-harness.mjs",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 5618,
+      "sha256_calcule": "87dbdb01c2a8a1ab48d8ef520b419b03a571f3b404c0a91b2c264d086e741c3b"
+    },
+    {
+      "chemin": "scripts/export-guide-html.py",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 8815,
+      "sha256_calcule": "152ca04d7877bb506fb26267368f484e57e71af39fb5f7f9f35b7dfc4cb0a0b1"
+    },
+    {
+      "chemin": "scripts/build-affiches.py",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 7417,
+      "sha256_calcule": "b79f789406fd506ee53c61e4e7a9550baef6cef3c78831a0ec13266881f274ab"
+    },
+    {
+      "chemin": "scripts/refine-module03.py",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 6078,
+      "sha256_calcule": "5816dd657119c731802e7ab7d318033bb16b6f89d2838f0f8cbb3ed88075d88a"
+    },
+    {
+      "chemin": "scripts/apply-ln-ia-layout.py",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 5053,
+      "sha256_calcule": "061e05c4bf4646cc1c1a9a6722f6157480ec199f10a116f7e98c630f26c57fbd"
+    },
+    {
+      "chemin": "docs/CHARTE-VISUELLE-LN-IA.md",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 4056,
+      "sha256_calcule": "73578dc50f8a349fcf53e7d4a8000e10c4ad562700af6d834cd6320675268c89"
+    },
+    {
+      "chemin": "docs/CONTRASTES-LN-IA.json",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 1165,
+      "sha256_calcule": "1f9c1818780c974134b83c47a8c2520fb826ccf0d5d0a218e14369e04b6b8e0c"
+    },
+    {
+      "chemin": "docs/EXPORT-GUIDE-SOURCE.json",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 337,
+      "sha256_calcule": "0a7545b794024b81f6d578f82e95277ef33373b890bbb68c658ee23c1df61d5a"
+    },
+    {
+      "chemin": "docs/RECETTE-PHASE07.md",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 8630,
+      "sha256_calcule": "092a83dc37075d5b3e9a2e4b8b190decdd0e15ff5969412031673222a11492e6"
+    },
+    {
+      "chemin": "docs/PHASE08-CORRECTIONS.md",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 5394,
+      "sha256_calcule": "e1d4ff9848d54b963fbe8d8ca7830bb6a0b41436b3c8afb9b303d01eeb86db1e"
+    },
+    {
+      "chemin": "docs/PHASE08-CORRECTIONS.diff",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 15173,
+      "sha256_calcule": "86c36fac2e77c5e997371829539c3767693a4ad9b9c7bfe16b565458adaaf652"
+    },
+    {
+      "chemin": "docs/EXECUTION-ADAPTATION-MODULE03.md",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 2864,
+      "sha256_calcule": "f5672ea4e37df795e9d8f0b00f5bad1eaa2c27a6bebbeda30547d790bb18a553"
+    },
+    {
+      "chemin": "public/ressources/affiche-01-parcours-module03.png",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 135303,
+      "sha256_calcule": "78d9ac4cc95cdb55815ed4baa27ffdb601b1f1d48934dab62171547b498ccbf5"
+    },
+    {
+      "chemin": "public/ressources/affiche-01-parcours-module03.svg",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 11250,
+      "sha256_calcule": "c0907e7a43ffff3542fcbbd1643ea36d95f17ede20e43607f522673225aa3320"
+    },
+    {
+      "chemin": "public/ressources/affiche-02-versions-controle-module03.png",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 110112,
+      "sha256_calcule": "4308c5a33dfc5fcff1f400bd1d0569c88e6d6f8e99f0f1984dfc607e94df0608"
+    },
+    {
+      "chemin": "public/ressources/affiche-02-versions-controle-module03.svg",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 7273,
+      "sha256_calcule": "c46341a2c6dec269bd17c83782fdfba467872262f383870e54676758bb6f2ee9"
+    },
+    {
+      "chemin": "public/ressources/Guide-Dossier-Professionnel-Module03-LN-IA-Automne2026.pdf",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 280045,
+      "sha256_calcule": "7f9195a720abb290a4bcc029565dbf9b9517a41e70453e1b78e6edcfdf800a49"
+    },
+    {
+      "chemin": "public/ressources/guide-module03.html",
+      "statut_documentaire": "ajout connu dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 1173077,
+      "sha256_calcule": "525f8d2d0b12c65bcf168812cee88fc9fe67e10e9adc3b5336dc0f96ff352a67"
+    }
+  ],
+  "lots_precedents_modifies": [
+    {
+      "chemin": "README.md",
+      "statut_documentaire": "modification connue dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 13189,
+      "sha256_calcule": "dfe8fef65f66efa389617522db7f79d2da71002b4a6de293405c1e97994835a2"
+    },
+    {
+      "chemin": "AGENTS.md",
+      "statut_documentaire": "modification connue dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 1396,
+      "sha256_calcule": "9608ca908d97f61e3685afbb2f82a873911b6d237cbb7c0728c27c060263f9bf"
+    },
+    {
+      "chemin": "index.html",
+      "statut_documentaire": "modification connue dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 1751,
+      "sha256_calcule": "2d9cf36dd357e12789f0916d5eff9998e4379dc2136055a5acb0775f9856de47"
+    },
+    {
+      "chemin": "src/app.js",
+      "statut_documentaire": "modification connue dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 25442,
+      "sha256_calcule": "9d5e554d23aff41c23ebb5f480e5b4062a8c3f4aacf6ffbb9613c9af1ae844dd"
+    },
+    {
+      "chemin": "src/styles.css",
+      "statut_documentaire": "modification connue dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 9426,
+      "sha256_calcule": "f787fd8320c4756e9caa85d8217664d7081467017aa80068d63bdbddc0fcf622"
+    },
+    {
+      "chemin": "scripts/standalone.py",
+      "statut_documentaire": "modification connue dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 3826,
+      "sha256_calcule": "2fdf708fd52c2e9b0dcb60a5b2136a48f08178225d0b30168a4174954aa9af6d"
+    },
+    {
+      "chemin": "tests/core.test.mjs",
+      "statut_documentaire": "modification connue dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 2140,
+      "sha256_calcule": "46af6c273ca4fd19f0c2d5da9dd5f222fa787d006da411ebc8518fa41e87ab77"
+    },
+    {
+      "chemin": ".gitignore",
+      "statut_documentaire": "modification connue dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 96,
+      "sha256_calcule": "6823d9536ea2604dd2594c4f22c3089268b034ac91555f2e1d494aa6609ccc56"
+    },
+    {
+      "chemin": "docs/PROVENANCE.md",
+      "statut_documentaire": "modification connue dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 7563,
+      "sha256_calcule": "08e48ca7afa390af2fd9a3eaef609db092c6b195d5e77f20172825effcf1112e"
+    },
+    {
+      "chemin": "docs/JOURNAL-QUALITE.md",
+      "statut_documentaire": "modification connue dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 24525,
+      "sha256_calcule": "923fcf82909f5d1a48b3af2417f2514593fb1f969e9486fb363f46b5766c0ce6"
+    },
+    {
+      "chemin": "docs/GUIDE-DOSSIER-PRO-MODULE03.md",
+      "statut_documentaire": "modification connue dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 23414,
+      "sha256_calcule": "0d003b157351b6fe47535acf6c0e00f68866600f742ad14c3089f729722a0e2c"
+    },
+    {
+      "chemin": "prompts/PROMPT-MAITRE-CODEX-MODULE03.md",
+      "statut_documentaire": "modification connue dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 9192,
+      "sha256_calcule": "39a6965e2fe6ff6b5839d66c878214b9a84575512e33a68c4b3824acbabe92ca"
+    },
+    {
+      "chemin": "docs/ANNONCE-GITHUB.md",
+      "statut_documentaire": "modification connue dans la série de travaux",
+      "perimetre": "lots antérieurs, récapitulatif ciblé",
+      "present": true,
+      "octets": 2696,
+      "sha256_calcule": "9b1cb9cca8fc30e49ac7270e2fcd9dc20e15b768a291385379c6981677679aa1"
+    }
+  ],
+  "sorties_generees": [
+    {
+      "chemin": "APERCU-AUTONOME-MODULE03.html",
+      "statut_documentaire": "sortie reconstruite en phase 08, non reconstruite en phase 09",
+      "perimetre": "application",
+      "present": true,
+      "octets": 4668077,
+      "sha256_calcule": "e98776d37a49bf0c793747204982039e689acb90e5b19e95efba343e221dc942"
+    },
+    {
+      "chemin": "dist/assets/index-RqN7bNGo.js",
+      "statut_documentaire": "sortie reconstruite en phase 08, non reconstruite en phase 09",
+      "perimetre": "application",
+      "present": true,
+      "octets": 64209,
+      "sha256_calcule": "eaa995b9e82f7a2f9c08cd3c98375c40f6cc3625db3fb7cbf699f7dd7c26c2bb"
+    },
+    {
+      "chemin": "dist/assets/logo-ln-ia.png",
+      "statut_documentaire": "sortie reconstruite en phase 08, non reconstruite en phase 09",
+      "perimetre": "application",
+      "present": true,
+      "octets": 856856,
+      "sha256_calcule": "c5deb19a2d80b8c53939844fbdcd3ed80ff5adcdd2f865e77f22ffa176e4c963"
+    },
+    {
+      "chemin": "dist/assets/style-BmIqu61c.css",
+      "statut_documentaire": "sortie reconstruite en phase 08, non reconstruite en phase 09",
+      "perimetre": "application",
+      "present": true,
+      "octets": 22614,
+      "sha256_calcule": "62b1bf8c8bdc93dbe8b98373398a0e4120010b7b6465429a0f73ab976aece5a0"
+    },
+    {
+      "chemin": "dist/index.html",
+      "statut_documentaire": "sortie reconstruite en phase 08, non reconstruite en phase 09",
+      "perimetre": "application",
+      "present": true,
+      "octets": 1743,
+      "sha256_calcule": "48711163eb7f2430f1943079d1bee9bc533fcd0e4ac0f00ef9e568ea58fc6336"
+    },
+    {
+      "chemin": "dist/ressources/affiche-01-parcours-module03.png",
+      "statut_documentaire": "sortie reconstruite en phase 08, non reconstruite en phase 09",
+      "perimetre": "application",
+      "present": true,
+      "octets": 135303,
+      "sha256_calcule": "78d9ac4cc95cdb55815ed4baa27ffdb601b1f1d48934dab62171547b498ccbf5"
+    },
+    {
+      "chemin": "dist/ressources/affiche-01-parcours-module03.svg",
+      "statut_documentaire": "sortie reconstruite en phase 08, non reconstruite en phase 09",
+      "perimetre": "application",
+      "present": true,
+      "octets": 11250,
+      "sha256_calcule": "c0907e7a43ffff3542fcbbd1643ea36d95f17ede20e43607f522673225aa3320"
+    },
+    {
+      "chemin": "dist/ressources/affiche-02-versions-controle-module03.png",
+      "statut_documentaire": "sortie reconstruite en phase 08, non reconstruite en phase 09",
+      "perimetre": "application",
+      "present": true,
+      "octets": 110112,
+      "sha256_calcule": "4308c5a33dfc5fcff1f400bd1d0569c88e6d6f8e99f0f1984dfc607e94df0608"
+    },
+    {
+      "chemin": "dist/ressources/affiche-02-versions-controle-module03.svg",
+      "statut_documentaire": "sortie reconstruite en phase 08, non reconstruite en phase 09",
+      "perimetre": "application",
+      "present": true,
+      "octets": 7273,
+      "sha256_calcule": "c46341a2c6dec269bd17c83782fdfba467872262f383870e54676758bb6f2ee9"
+    },
+    {
+      "chemin": "dist/ressources/Guide-Dossier-Professionnel-Module03-LN-IA-Automne2026.pdf",
+      "statut_documentaire": "sortie reconstruite en phase 08, non reconstruite en phase 09",
+      "perimetre": "application",
+      "present": true,
+      "octets": 280045,
+      "sha256_calcule": "7f9195a720abb290a4bcc029565dbf9b9517a41e70453e1b78e6edcfdf800a49"
+    },
+    {
+      "chemin": "dist/ressources/guide-module03.html",
+      "statut_documentaire": "sortie reconstruite en phase 08, non reconstruite en phase 09",
+      "perimetre": "application",
+      "present": true,
+      "octets": 1173077,
+      "sha256_calcule": "525f8d2d0b12c65bcf168812cee88fc9fe67e10e9adc3b5336dc0f96ff352a67"
+    }
+  ],
+  "exclus": [
+    "sources-historiques/ : sources conservées, non à publier",
+    "tmp/ : copies et profils de travail exclus de Git",
+    "node_modules/ : dépendances, non inventoriées individuellement"
+  ],
+  "limite": "Pas de preuve de commit, push ou déploiement ; pas de conclusion sur un dépôt distant. Aucun répertoire candidat inventorié."
+}
