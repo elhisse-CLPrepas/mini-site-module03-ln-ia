@@ -12,7 +12,7 @@
 
 ## Stratégie retenue
 
-1. Initialiser le dépôt local sur `main` avec un premier commit limité aux exclusions `.gitignore` ; ajouter le remote exact et pousser sans forcer.
+1. Initialiser le dépôt local sur `main` avec un premier commit limité aux exclusions `.gitignore` et règles `.gitattributes` ; ajouter le remote exact et pousser sans forcer.
 2. Créer `release/module03-pages` pour les sources, modèles pédagogiques, ressources autorisées, tests, preuves et workflow.
 3. Vérifier les fichiers sélectionnés, exécuter les contrôles locaux et pousser la branche.
 4. Ouvrir une Pull Request vers `main` pour rendre la livraison inspectable et exécuter la CI. La relecture humaine et les validations des phases 08/09 sont déjà déclarées par le pilote ; l’autorisation de publication est donnée dans son message de phase 10.
@@ -37,3 +37,7 @@ La mise en ligne Pages publie **uniquement `dist/`**, construit par Vite. Les ar
 ## Réserves maintenues
 
 Le pilote a effectué le contrôle visuel et pédagogique bureau/mobile. Les tests applicatifs en DOM de test ne prouvent pas les téléchargements physiques, dialogues natifs et console Chrome ; ces réserves restent documentées. L’autorisation explicite de phase 10 permet d’avancer avec ces réserves visibles, sans les transformer en tests réussis.
+
+## Exécution constatée
+
+Stratégie exécutée : PR nº1 fusionnée après CI, premier déploiement réussi. Résultats, identifiants réels et limites : [PHASE10-DEPLOIEMENT.md](PHASE10-DEPLOIEMENT.md). Les preuves finales sont ajoutées par un commit documentaire distinct sur `main`, puis son workflow est contrôlé.

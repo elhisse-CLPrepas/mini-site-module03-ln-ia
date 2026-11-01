@@ -11,3 +11,5 @@
 - Ne pas supprimer, pousser, déployer ni modifier les permissions sans autorisation explicite du pilote.
 - Tenir `docs/JOURNAL-QUALITE.md` et documenter les limites réelles.
 - Lire `docs/PHASE09-DOSSIER-PREUVES.md` avant la suite du pilotage : la phase 08 est validée explicitement par le pilote, les preuves et réserves de recette sont documentées. Ne pas transformer cette validation de lot en autorisation de commit/push/déploiement ni en validation des livrables candidats.
+
+- Phase 10 explicitement autorisée après validation de la phase 09 : Git, push et Pages exécutés. Lire `docs/PHASE10-DEPLOIEMENT.md` pour l’état réel, les preuves et les réserves. Les mentions antérieures d’absence de dépôt/publication décrivent leur phase historique.

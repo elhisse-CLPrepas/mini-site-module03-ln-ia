@@ -13,3 +13,4 @@ tmp/
 .aws/
 .codex/
 .agents/
+.vite/

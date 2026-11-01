@@ -8,7 +8,7 @@ Ce mini-site accompagne la construction d’un dossier professionnel : clarifier
 
 Un même projet relie les documents, les corrections, les preuves et la présentation destinée au public. Les messages et visuels s’appuient sur les pièces réellement produites ; les faits incertains restent signalés et la décision de diffusion appartient au pilote humain.
 
-> **Pilotage : phases 08 et 09 validées par le pilote ; phase 10 autorisée, publication en préparation.** Les ateliers S09–S12 sont disponibles. Les livrables V1/V2 conservent leur statut À RELIRE ; les réserves de recette native restent signalées.
+> **Pilotage : phases 08 et 09 validées par le pilote ; phase 10 exécutée, mini-site publié sur GitHub Pages.** Les ateliers S09–S12 sont disponibles. Les livrables V1/V2 conservent leur statut À RELIRE ; les réserves de recette native restent signalées.
 
 ## À qui sert ce dossier ?
 
@@ -27,7 +27,11 @@ Les cinq fonctions du plan sont Comprendre, Préparer, Produire, Vérifier et Am
 
 ## Démarrage
 
-**Dépôt réel : [elhisse-CLPrepas/mini-site-module03-ln-ia](https://github.com/elhisse-CLPrepas/mini-site-module03-ln-ia).** La [stratégie Git et Pages](docs/PHASE10-STRATEGIE-GIT-PAGES.md) décrit la branche de livraison, la Pull Request et le déploiement. Les résultats de mise en ligne seront ajoutés après vérification réelle.
+**Dépôt réel : [elhisse-CLPrepas/mini-site-module03-ln-ia](https://github.com/elhisse-CLPrepas/mini-site-module03-ln-ia).** La [stratégie Git et Pages](docs/PHASE10-STRATEGIE-GIT-PAGES.md) décrit la branche de livraison, la Pull Request et le déploiement. Le [rapport de déploiement vérifié](docs/PHASE10-DEPLOIEMENT.md) relie les commits, la PR, les journaux et les contrôles HTTP.
+
+**Site public : [Ouvrir le mini-site Module 03 sur GitHub Pages](https://elhisse-clprepas.github.io/mini-site-module03-ln-ia/).**
+
+[Guide HTML](https://elhisse-clprepas.github.io/mini-site-module03-ln-ia/ressources/guide-module03.html) · [Guide PDF](https://elhisse-clprepas.github.io/mini-site-module03-ln-ia/ressources/Guide-Dossier-Professionnel-Module03-LN-IA-Automne2026.pdf) · [Actions : premier déploiement réussi](https://github.com/elhisse-CLPrepas/mini-site-module03-ln-ia/actions/runs/41362848744).
 
 **Accès au serveur local Vite : [Ouvrir le mini-site Module 03](http://127.0.0.1:5173/).**
 

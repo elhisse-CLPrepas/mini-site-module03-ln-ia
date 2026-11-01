@@ -1,5 +1,10 @@
 # Provenance, dates et décisions d’harmonisation
 
+## Phase 10 — Publication effectivement vérifiée — 1er novembre 2026
+
+PR nº1 fusionnée après CI réussie ; commit de fusion `cc4bc733504cbd48eb658d71b850491bd58a2180`. Exécution Actions `41362848744` : build et deploy réussis ; journaux consultés, 35 tests réussis, aucun échec. URL publique : https://elhisse-clprepas.github.io/mini-site-module03-ln-ia/. Accueil, JS/CSS, logo, guides PDF/HTML et affiches : HTTP 200 ; fichiers publics identiques aux sources locales. Trois chemins exclus testés : HTTP 404. Voir `PHASE10-DEPLOIEMENT.md` et `PHASE10-CONTROLES-HTTP.json`. Archives/Word préservés localement, hors dépôt ; réserves natives maintenues. Cette entrée actualise l’état de publication ; les constats de phases antérieures ci-dessous restent historiques.
+
+
 ## Autorisation de phase 10 et dépôt réel — 1er novembre 2026
 
 Le pilote valide la phase 09 et autorise commit, remote/push et déploiement Pages via Actions avec contrôle de l’URL et des journaux. Le connecteur GitHub confirme le dépôt public elhisse-CLPrepas/mini-site-module03-ln-ia, ID 1442252931, main, initialement vide. Pages répond HTTP 404 avant configuration. La stratégie figure dans PHASE10-STRATEGIE-GIT-PAGES.md. Archives historiques, Word sources et dossiers privés sont préservés localement et exclus du dépôt. Les réserves natives ne sont pas transformées en tests réussis.

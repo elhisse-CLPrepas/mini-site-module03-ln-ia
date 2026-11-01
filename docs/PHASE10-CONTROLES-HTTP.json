@@ -1,0 +1,135 @@
+{
+  "checked_at_utc": "2026-11-01T22:37:22.872669+00:00",
+  "base_url": "https://elhisse-clprepas.github.io/mini-site-module03-ln-ia/",
+  "deployment_run": 41362848744,
+  "deployed_commit": "cc4bc733504cbd48eb658d71b850491bd58a2180",
+  "results": [
+    {
+      "path": "",
+      "status": 200,
+      "expected": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 1741,
+      "sha256": "049a1b1e9d26b5dc92c0b476ea7ed6197165580ae17ae55fdeea4d84f3f8d5d9"
+    },
+    {
+      "path": "./assets/logo-ln-ia.png",
+      "status": 200,
+      "expected": 200,
+      "content_type": "image/png",
+      "bytes": 856856,
+      "sha256": "c5deb19a2d80b8c53939844fbdcd3ed80ff5adcdd2f865e77f22ffa176e4c963",
+      "matches_public_source": true
+    },
+    {
+      "path": "./assets/index-RqN7bNGo.js",
+      "status": 200,
+      "expected": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 64209,
+      "sha256": "eaa995b9e82f7a2f9c08cd3c98375c40f6cc3625db3fb7cbf699f7dd7c26c2bb"
+    },
+    {
+      "path": "./assets/style-BmIqu61c.css",
+      "status": 200,
+      "expected": 200,
+      "content_type": "text/css; charset=utf-8",
+      "bytes": 22614,
+      "sha256": "62b1bf8c8bdc93dbe8b98373398a0e4120010b7b6465429a0f73ab976aece5a0"
+    },
+    {
+      "path": "./assets/logo-ln-ia.png",
+      "status": 200,
+      "expected": 200,
+      "content_type": "image/png",
+      "bytes": 856856,
+      "sha256": "c5deb19a2d80b8c53939844fbdcd3ed80ff5adcdd2f865e77f22ffa176e4c963",
+      "matches_public_source": true
+    },
+    {
+      "path": "assets/logo-ln-ia.png",
+      "status": 200,
+      "expected": 200,
+      "content_type": "image/png",
+      "bytes": 856856,
+      "sha256": "c5deb19a2d80b8c53939844fbdcd3ed80ff5adcdd2f865e77f22ffa176e4c963",
+      "matches_public_source": true
+    },
+    {
+      "path": "ressources/affiche-01-parcours-module03.png",
+      "status": 200,
+      "expected": 200,
+      "content_type": "image/png",
+      "bytes": 135303,
+      "sha256": "78d9ac4cc95cdb55815ed4baa27ffdb601b1f1d48934dab62171547b498ccbf5",
+      "matches_public_source": true
+    },
+    {
+      "path": "ressources/affiche-01-parcours-module03.svg",
+      "status": 200,
+      "expected": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 11250,
+      "sha256": "c0907e7a43ffff3542fcbbd1643ea36d95f17ede20e43607f522673225aa3320",
+      "matches_public_source": true
+    },
+    {
+      "path": "ressources/affiche-02-versions-controle-module03.png",
+      "status": 200,
+      "expected": 200,
+      "content_type": "image/png",
+      "bytes": 110112,
+      "sha256": "4308c5a33dfc5fcff1f400bd1d0569c88e6d6f8e99f0f1984dfc607e94df0608",
+      "matches_public_source": true
+    },
+    {
+      "path": "ressources/affiche-02-versions-controle-module03.svg",
+      "status": 200,
+      "expected": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 7273,
+      "sha256": "c46341a2c6dec269bd17c83782fdfba467872262f383870e54676758bb6f2ee9",
+      "matches_public_source": true
+    },
+    {
+      "path": "ressources/Guide-Dossier-Professionnel-Module03-LN-IA-Automne2026.pdf",
+      "status": 200,
+      "expected": 200,
+      "content_type": "application/pdf",
+      "bytes": 280045,
+      "sha256": "7f9195a720abb290a4bcc029565dbf9b9517a41e70453e1b78e6edcfdf800a49",
+      "matches_public_source": true
+    },
+    {
+      "path": "ressources/guide-module03.html",
+      "status": 200,
+      "expected": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 1173028,
+      "sha256": "da7e82a8b40202181f6d3ef2d5355289528067177a77e927fcb88ac0b52ce7e2",
+      "matches_public_source": true
+    },
+    {
+      "path": ".env",
+      "status": 404,
+      "expected": 404,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9379
+    },
+    {
+      "path": "sources-historiques/supports-seance-09.zip",
+      "status": 404,
+      "expected": 404,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9379
+    },
+    {
+      "path": "docs/Guide-Dossier-Professionnel-Module03-LN-IA-Automne2026.docx",
+      "status": 404,
+      "expected": 404,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 9379
+    }
+  ],
+  "clock_note": "Horodatage HTTP fourni par l’horloge locale ; les horodatages GitHub sont conservés séparément dans Actions."
+}

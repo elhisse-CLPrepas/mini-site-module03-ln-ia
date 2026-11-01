@@ -1,5 +1,10 @@
 # Journal qualité — Module 03
 
+## Phase 10 — Publication effectivement vérifiée — 1er novembre 2026
+
+PR nº1 fusionnée après CI réussie ; commit de fusion `cc4bc733504cbd48eb658d71b850491bd58a2180`. Exécution Actions `41362848744` : build et deploy réussis ; journaux consultés, 35 tests réussis, aucun échec. URL publique : https://elhisse-clprepas.github.io/mini-site-module03-ln-ia/. Accueil, JS/CSS, logo, guides PDF/HTML et affiches : HTTP 200 ; fichiers publics identiques aux sources locales. Trois chemins exclus testés : HTTP 404. Voir `PHASE10-DEPLOIEMENT.md` et `PHASE10-CONTROLES-HTTP.json`. Archives/Word préservés localement, hors dépôt ; réserves natives maintenues. Cette entrée actualise l’état de publication ; les constats de phases antérieures ci-dessous restent historiques.
+
+
 ## Phase 10 — Préparation Git et GitHub Pages — 1er novembre 2026
 
 - Le pilote valide la phase 09 et autorise commit, remote/push et déploiement Pages via Actions.

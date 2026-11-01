@@ -20,7 +20,7 @@ Le pilote a explicitement déclaré « JE VALIDE la phase 8 », puis demandé la
 
 La phase 09 fournit un inventaire des fichiers présents, un diff documentaire depuis les copies identifiées et un relevé des sources préservées. Sans dépôt Git local, ne pas présenter ces comparaisons comme des diffs Git. Ne pas fabriquer de commit, de signature, d’empreinte ou d’URL publiée. Le bloc de consignes suspendues a été retiré du prompt actif ; son historique demeure dans la provenance et les copies de travail.
 
-La suite prévue est la phase 10 : proposer un périmètre précis de diffusion et le traitement des réserves, puis obtenir l’autorisation distincte du pilote avant les opérations d’écriture Git et de publication. La demande de documentation de phase 09 ne constitue pas cette autorisation. Aucun changement graphique ni élargissement pédagogique n’est demandé par cette phase documentaire.
+Le pilote a ensuite validé la phase 09 et autorisé explicitement la phase 10 : commit, remote/push, déploiement GitHub Pages via Actions et contrôle des URL et journaux. Cette autorisation distincte a été exécutée ; lire `docs/PHASE10-STRATEGIE-GIT-PAGES.md` et `docs/PHASE10-DEPLOIEMENT.md`. Les constats antérieurs sans dépôt Git décrivent les phases historiques ; la publication ne valide pas les livrables candidats. Aucun changement graphique ni élargissement pédagogique ne découle de cette opération.
 
 ### Organigramme et algorithme du Module 03
 
